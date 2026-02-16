@@ -43,6 +43,4 @@ gnome-extensions enable linwinresize@9f79d7d0-5d2f-445b-8531-db32d902c29f
 
 The code for this extension was written by Anthropic's Claude Code, under instruction of, and tested by, humans.
 
-## License
 
-GPL-2.0
