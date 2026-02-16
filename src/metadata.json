@@ -1,0 +1,7 @@
+{
+    "uuid": "linwinresize@9f79d7d0-5d2f-445b-8531-db32d902c29f",
+    "name": "LinwinResize",
+    "description": "Auto resize a window that is too large for your current screen",
+    "shell-version": ["45", "46", "47"],
+    "version": 2
+}
